@@ -1,9 +1,5 @@
-## Writeup Template
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
+# **Vehicle Detection Project**
 ---
-
-**Vehicle Detection Project**
 
 The goals / steps of this project are the following:
 
@@ -15,33 +11,33 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./examples/car_not_car.png
+[image1]: ./examples/car_not_car.JPG
 [image2]: ./examples/HOG_example.jpg
-[image3]: ./examples/sliding_windows.jpg
-[image4]: ./examples/sliding_window.jpg
-[image5]: ./examples/sliding_windows.jpg
-[image6]: ./examples/sliding_window.jpg
-[image7]: ./examples/sliding_windows.jpg
-[image8]: ./examples/sliding_window.jpg
-[image9]: ./examples/bboxes_and_heat.png
-[image10]: ./examples/bboxes_and_heat.png
-[image11]: ./examples/bboxes_and_heat.png
-[image12]: ./examples/bboxes_and_heat.png
-[image13]: ./examples/bboxes_and_heat.png
-[image14]: ./examples/bboxes_and_heat.png
-[image15]: ./examples/labels_map.png
-[image16]: ./examples/labels_map.png
-[image17]: ./examples/labels_map.png
-[image18]: ./examples/labels_map.png
-[image19]: ./examples/labels_map.png
-[image20]: ./examples/labels_map.png
-[image21]: ./examples/output_bboxes.png
-[image22]: ./examples/output_bboxes.png
-[image23]: ./examples/output_bboxes.png
-[image24]: ./examples/output_bboxes.png
-[image25]: ./examples/output_bboxes.png
-[image26]: ./examples/output_bboxes.png
-[video1]: ./project_video_output.mp4
+[image3]: ./examples/sliding_windows_1.jpg
+[image4]: ./examples/sliding_windows_2.jpg
+[image5]: ./examples/sliding_windows_3.jpg
+[image6]: ./examples/sliding_windows_4.jpg
+[image7]: ./examples/sliding_windows_5.jpg
+[image8]: ./examples/sliding_windows_6.jpg
+[image9]: ./examples/bboxes_and_heat_1.jpg
+[image10]: ./examples/bboxes_and_heat_2.jpg
+[image11]: ./examples/bboxes_and_heat_3.jpg
+[image12]: ./examples/bboxes_and_heat_4.jpg
+[image13]: ./examples/bboxes_and_heat_5.jpg
+[image14]: ./examples/bboxes_and_heat_6.jpg
+[image15]: ./examples/labels_map_1.jpg
+[image16]: ./examples/labels_map_2.jpg
+[image17]: ./examples/labels_map_3.jpg
+[image18]: ./examples/labels_map_4.jpg
+[image19]: ./examples/labels_map_5.jpg
+[image20]: ./examples/labels_map_6.jpg
+[image21]: ./examples/output_bboxes_1.jpg
+[image22]: ./examples/output_bboxes_2.jpg
+[image23]: ./examples/output_bboxes_3.jpg
+[image24]: ./examples/output_bboxes_4.jpg
+[image25]: ./examples/output_bboxes_5.jpg
+[image26]: ./examples/output_bboxes_6.jpg
+[video1]: ./project_video_with_lanelines_output.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
